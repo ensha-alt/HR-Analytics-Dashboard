@@ -38,12 +38,6 @@ The HR Analytics Dashboard provides actionable insights into employee presence a
 
 ---
 
-## 📸 Dashboard Preview
-
-![HR Analytics Dashboard Screenshot](screenshot.png)
-
----
-
 ## 📊 Insights Example
 
 | Metric | Value | Insight |
